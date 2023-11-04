@@ -1,0 +1,35 @@
+{
+   "colors": [
+      {
+      "title": "Coolors",
+      "url": "https://coolors.co",
+      "description": "The super fast color schemas generator!",
+      "imageName": "color-coolors.png" 
+      },
+      {
+      "title": "Color Designer",
+      "url": "https://colordesigner.io/",
+      "description": "The main purpose of this tool is to help with building a color palette and generate tints and shades based on it.",
+      "imageName": "color-colordesigner.png" 
+      },
+      {
+         "title": "Color Hunt",
+         "url": "https://colorhunt.co/",
+         "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+         "imageName": "color-colorhunt.png" 
+      },
+      {
+         "title": "0to255",
+         "url": "https://0to255.com/",
+         "description": "0to255 is a color tool for finding lighter and darker colors based on any color.",
+         "imageName": "color-0to255.png" 
+      }
+
+
+
+   ]
+  
+}
+
+
+
