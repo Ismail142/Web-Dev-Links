@@ -5,9 +5,9 @@ import Menu from "./Components/Menu";
 import jsonData from "./Components/data.json";
 import { inject } from '@vercel/analytics';
 
+
 function App() {
    inject();
-   
    const categories = [];
    for (let keys in jsonData){
       categories.push(keys);
