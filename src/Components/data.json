@@ -23,6 +23,18 @@
          "url": "https://0to255.com/",
          "description": "0to255 is a color tool for finding lighter and darker colors based on any color.",
          "imageName": "color-0to255.jpg" 
+      },
+      {
+         "title": "Colors Lol",
+         "url": "https://colors.lol/",
+         "description": "Overly descriptive color palettes.",
+         "imageName": "color-colorlol.jpg" 
+      },
+      {
+         "title": "Colors space",
+         "url": "https://mycolor.space/",
+         "description": "Never waste Hours on finding the perfect Color Palette again!",
+         "imageName": "color-colorspace.jpg" 
       }
    ],
 
