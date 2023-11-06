@@ -4,7 +4,7 @@
 .card>h1 {
    text-align: center;
    font-size: 2.5rem;
-   margin-bottom: 1.8rem;
+   margin-bottom: 3rem;
 }
 
 .container {
@@ -51,11 +51,23 @@
 .col-title>h3 {
    font-weight: 500;
    font-size: 1.4rem;
+   text-transform: capitalize;
 }
 .col-description>p {
    line-height: 1.5rem;
    word-spacing: 2px;
 }
+
+hr {
+   margin: 5rem auto;
+   width: 80%;
+   border: 1px solid #f5ebe0;
+}
+
+
+
+
+
 
 /* ---------MEDIA QUERY---------------- */
 @media (max-width: 929px){
@@ -67,7 +79,7 @@
 }
 @media (max-width: 569px){
    .container {
-      grid-template: 1fr / repeat(1, minmax(100px, 450px));
+      grid-template: 1fr / repeat(1, minmax(80px, 450px));
       margin: 0 10px;
    }
 }

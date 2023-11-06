@@ -1,0 +1,76 @@
+{
+   "colors": [
+      {
+      "title": "Coolors",
+      "url": "https://coolors.co",
+      "description": "The super fast color schemas generator!",
+      "imageName": "color-coolors.png" 
+      },
+      {
+      "title": "Color Designer",
+      "url": "https://colordesigner.io/",
+      "description": "The main purpose of this tool is to help with building a color palette and generate tints and shades based on it.",
+      "imageName": "color-colordesigner.jpg" 
+      },
+      {
+         "title": "Color Hunt",
+         "url": "https://colorhunt.co/",
+         "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+         "imageName": "color-colorhunt.jpg" 
+      },
+      {
+         "title": "0to255",
+         "url": "https://0to255.com/",
+         "description": "0to255 is a color tool for finding lighter and darker colors based on any color.",
+         "imageName": "color-0to255.jpg" 
+      }
+   ],
+
+   "css": [
+      {
+         "title": "Bulma",
+         "url": "https://bulma.io/",
+         "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.",
+         "imageName": "css-bulma.jpg"
+      },
+      {
+         "title": "Animate.css",
+         "url": "https://animate.style/",
+         "description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+         "imageName": "css-animate.jpg"
+      },
+      {
+         "title": "Fancy Border Radius",
+         "url": "https://9elements.github.io/fancy-border-radius/",
+         "description": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. WOW 😱.",
+         "imageName": "css-fancy-border-radius.jpg"
+      }
+   ],
+
+   "backgrounds": [
+      {
+         "title": "trianglify",
+         "url": "https://trianglify.io/",
+         "description": "Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.",
+         "imageName": "bg-trianglify.jpg"
+      },
+      {
+         "title": "Svg Backgrounds",
+         "url": "https://www.svgbackgrounds.com/",
+         "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
+         "imageName": "bg-svgbackgrounds.jpg"
+      },
+      {
+         "title": "BG Jar",
+         "url": "https://bgjar.com/",
+         "description": "Free svg background generator for your websites, blogs and app.",
+         "imageName": "bg-bgjar.jpg"
+      }
+   ]
+
+
+  
+}
+
+
+

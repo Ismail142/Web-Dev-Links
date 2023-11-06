@@ -1,14 +1,29 @@
 * {
    margin: 0;
    padding: 0;
+   box-sizing: border-box;
 }
 
 html {
    font-family: 'Karla', sans-serif;
 }
 
+html,body {
+   scroll-behavior: smooth;
+}
+
 body {
-   background-color: #F5F5F5;
+   /* background-color: #F5F5F5; */
+   background-image: url('/public/abstract-envelope.svg');
+   background-repeat: no-repeat;
+   background-size: cover;
    color: #574b4b;
 }
 
+body.overflow {
+   overflow: hidden;
+}
+
+a {
+   text-decoration: none;
+}
