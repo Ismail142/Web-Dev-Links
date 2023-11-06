@@ -3,8 +3,11 @@ import Card from "./Components/Card";
 import Footer from "./Components/Footer";
 import Menu from "./Components/Menu";
 import jsonData from "./Components/data.json";
+import { inject } from '@vercel/analytics';
 
 function App() {
+   inject();
+   
    const categories = [];
    for (let keys in jsonData){
       categories.push(keys);
