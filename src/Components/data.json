@@ -62,6 +62,12 @@
          "url": "https://cssgradient.io/",
          "description": "CSS Gradient is a project that lets you create free gradient backgrounds for your website",
          "imageName": "css-cssgradient.jpg"
+      },
+      {
+         "title": "CSS tricks",
+         "url": "https://css-tricks.com/",
+         "description": "CSS Tricks hosts some of the best advice, tips, tricks and code snippets on Cascading Style Sheets.",
+         "imageName": "css-csstricks.jpg"
       }
    ],
 
@@ -83,6 +89,33 @@
          "url": "https://bgjar.com/",
          "description": "Free svg background generator for your websites, blogs and app.",
          "imageName": "bg-bgjar.jpg"
+      },
+      {
+         "title": "Haikei",
+         "url": "https://haikei.app/generators/",
+         "description": "Haikei is a web app that generate stunning visual content – ready to use with your design tools and workflow.",
+         "imageName": "bg-haikeijpg.jpg"
+      },
+      {
+         "title": "animated backgrounds",
+         "url": "https://animatedbackgrounds.me/",
+         "description": "Animated Backgrounds hosts code snippets of various animated backgrounds that can be used as a background in your website.",
+         "imageName": "bg-animatedbackground.jpg"
+      }
+   ],
+
+   "images": [
+      {
+         "title": "unsplash",
+         "url": "https://unsplash.com/",
+         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+         "imageName": "img-unsplash.jpg"
+      },
+      {
+         "title": "bing image creator",
+         "url": "https://unsplash.com/",
+         "description": "Bing Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
+         "imageName": "img-bingimage.jpg"
       }
    ]
 
