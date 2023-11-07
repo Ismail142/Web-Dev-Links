@@ -3,7 +3,7 @@ import "../Styles/Footer.css";
 function Footer() {
    const date = (
       <strong>
-         Nov<sup>6th</sup> , 2023
+         Nov<sup>7th</sup> , 2023
       </strong>
    );
    return (
