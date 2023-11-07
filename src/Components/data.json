@@ -113,7 +113,7 @@
       },
       {
          "title": "bing image creator",
-         "url": "https://unsplash.com/",
+         "url": "https://www.bing.com/create",
          "description": "Bing Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
          "imageName": "img-bingimage.jpg"
       }
