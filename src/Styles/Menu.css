@@ -106,12 +106,12 @@
    grid-template: 1fr / repeat(2, minmax(300px, 400px));
 }
 
+/* rgba(230, 220, 220, 0.589); */
 .show-menu-col {
    text-align: center;
    color: white;
    font-size: 1.3rem;
    border-top: 1px solid rgba(230, 220, 220, 0.589);
-   padding: 10px;
    margin-right: 10px;
    font-weight: 600;
    padding: 30px 0;
@@ -143,5 +143,9 @@
       top: 10%;
       left: 50%;
       transform: translate(-50%, -10%);
+   }
+
+   .show-menu-col {
+      padding: 20px;
    }
 }
