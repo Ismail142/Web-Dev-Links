@@ -116,11 +116,159 @@
          "url": "https://www.bing.com/create",
          "description": "Bing Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
          "imageName": "img-bingimage.jpg"
+      },
+      {
+         "title": "pixabay",
+         "url": "https://pixabay.com/",
+         "description": "Find your perfect royalty-free image or video to download and use. ✓ Royalty-free ✓ No attribution required ✓ High quality images.",
+         "imageName": "img-pixabay.jpg"
+      },
+      {
+         "title": "adobe stock",
+         "url": "https://stock.adobe.com/",
+         "description": "Search Adobe Stock for millions of royalty-free stock images, photos, graphics, vectors, video footage, illustrations, templates and 3d assets.",
+         "imageName": "img-adobestock.jpg"
+      },
+      {
+         "title": "pexels",
+         "url": "https://www.pexels.com/",
+         "description": "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.",
+         "imageName": "img-pexels.jpg"
+      },
+      {
+         "title": "libreStock",
+         "url": "https://librestock.com/",
+         "description": "We scan and index the best free photos from the top stock sites, so that you can find that perfect image much, much quicker.",
+         "imageName": "img-librestock.jpg"
+      },
+      {
+         "title": "adobe stock",
+         "url": "https://stock.adobe.com/",
+         "description": "Search Adobe Stock for millions of royalty-free stock images, photos, graphics, vectors, video footage, illustrations, templates and 3d assets.",
+         "imageName": "img-adobestock.jpg"
+      },
+      {
+         "title": "visualHunt",
+         "url": "https://visualhunt.com/",
+         "description": "Visually search the best products and ideas. Curated by experts, powered by community.",
+         "imageName": "img-visualhunt.jpg"
+      },
+      {
+         "title": "freePhotos",
+         "url": "https://freephotos.cc/en",
+         "description": "Find 100% Free Stock Images.",
+         "imageName": "img-freephotos.jpg"
+      }
+   ],
+
+   "hosting": [
+      {
+         
+         "title": "netlify",
+         "url": "https://netlify.com/",
+         "description": "Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.",
+         "imageName": "host-netlify.jpg"
+      },
+      {
+         
+         "title": "firebase",
+         "url": "https://firebase.google.com/",
+         "description": "Firebase helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises",
+         "imageName": "host-firebase.jpg"
+      },
+      {
+         
+         "title": "github pages",
+         "url": "https://pages.github.com/",
+         "description": "GitHub Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.",
+         "imageName": "host-githubpages.jpg"
+      },
+      {
+         
+         "title": "vercel",
+         "url": "https://vercel.com/",
+         "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.",
+         "imageName": "host-vercel.jpg"
+      },
+      {
+         
+         "title": "Amazon web services",
+         "url": "https://aws.amazon.com/",
+         "description": "Amazon Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.",
+         "imageName": "host-amservice.jpg"
+      },
+      {
+         
+         "title": "surge",
+         "url": "https://surge.sh/",
+         "description": "Surge is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line",
+         "imageName": "host-surge.jpg"
+      },
+      {
+         
+         "title": "render",
+         "url": "https://render.com/",
+         "description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.",
+         "imageName": "host-render.jpg"
+      },
+      {
+         
+         "title": "gitlap pages",
+         "url": "https://docs.gitlab.com/ee/user/project/pages/",
+         "description": "GitLab Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.",
+         "imageName": "host-gitlappages.jpg"
+      },
+      {
+         
+         "title": "stormkit",
+         "url": "https://stormkit.io/",
+         "description": "Stormkit can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.",
+         "imageName": "host-stormkit.jpg"
+      },
+      {
+         
+         "title": "digital ocean",
+         "url": "https://www.digitalocean.com/",
+         "description": "DigitalOcean has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.",
+         "imageName": "host-digitalocean.jpg"
+      },
+      {
+         
+         "title": "000webhost",
+         "url": "https://www.000webhost.com/",
+         "description": "000webhostapp is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.",
+         "imageName": "host-000webhost.jpg"
+      },
+      {
+         
+         "title": "infinity free",
+         "url": "https://infinityfree.net/",
+         "description": "InfinityFree is fully featured, completely free website hosting with PHP, MySQL and no ads on site.",
+         "imageName": "host-infinityfree.jpg"
+      },
+      {
+         
+         "title": "fly",
+         "url": "https://fly.io/",
+         "description": "Fly is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.",
+         "imageName": "host-fly.jpg"
+      }
+   ],
+
+   "illustration": [
+      {
+         "title": "Reshot",
+         "url": "https://www.reshot.com/free-vector-illustrations/",
+         "description": "Free Vector Illustrations. Design freely with instant downloads and commercial licenses for over 1,500 vector illustrations",
+         "imageName": "ill-reshot.jpg"
+      },
+      {
+         "title": "icons8",
+         "url": "https://icons8.com/illustrations",
+         "description": "Explore a beautiful library of royalty-free clipart illustrations in PNG, SVG formats. Free vector, 3d, animated illustrations for commercial use.",
+         "imageName": "ill-icons8.jpg"
       }
    ]
-
-
-  
 }
 
 
