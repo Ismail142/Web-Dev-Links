@@ -142,10 +142,10 @@
          "imageName": "img-librestock.jpg"
       },
       {
-         "title": "adobe stock",
-         "url": "https://stock.adobe.com/",
-         "description": "Search Adobe Stock for millions of royalty-free stock images, photos, graphics, vectors, video footage, illustrations, templates and 3d assets.",
-         "imageName": "img-adobestock.jpg"
+         "title": "istock",
+         "url": "https://www.istockphoto.com/",
+         "description": "iStock has millions of exclusive stock photos, videos, vectors, and illustrations that are researched and shot by a diverse global community.",
+         "imageName": "img-istock.jpg"
       },
       {
          "title": "visualHunt",
