@@ -35,6 +35,24 @@
          "url": "https://mycolor.space/",
          "description": "Never waste Hours on finding the perfect Color Palette again!",
          "imageName": "color-colorspace.jpg" 
+      },
+      {
+         "title": "flat ui",
+         "url": "https://flatuicolors.com/",
+         "description": "Flat UI Colors 2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command for COPY",
+         "imageName": "color-flatui.jpg" 
+      },
+      {
+         "title": "colorsinspo",
+         "url": "https://colorsinspo.com/",
+         "description": "Colorsinspo is all in one resource to find everything about colors with extreme ease",
+         "imageName": "color-colorsinspo.jpg" 
+      },
+      {
+         "title": "colorion",
+         "url": "https://www.colorion.co/",
+         "description": "Find your color palettes at ease.",
+         "imageName": "color-colorion.jpg" 
       }
    ],
 
@@ -68,10 +86,40 @@
          "url": "https://css-tricks.com/",
          "description": "CSS Tricks hosts some of the best advice, tips, tricks and code snippets on Cascading Style Sheets.",
          "imageName": "css-csstricks.jpg"
+      },
+      {
+         "title": "glassmorphism generator",
+         "url": "https://markodenic.com/tools/glassmorphism-css-generator/",
+         "description": "Use Glassmorphism Generator to create a stunning effect for your projects.",
+         "imageName": "css-glassmorphism.jpg"
+      },
+      {
+         "title": "button generator",
+         "url": "https://markodenic.com/tools/buttons-generator/",
+         "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
+         "imageName": "css-buttongen.jpg"
+      },
+      {
+         "title": "layoutit grid",
+         "url": "https://grid.layoutit.com/",
+         "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
+         "imageName": "css-gridlayout.jpg"
+      },
+      {
+         "title": "button generator",
+         "url": "https://markodenic.com/tools/buttons-generator/",
+         "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
+         "imageName": "css-buttongen.jpg"
       }
    ],
 
    "backgrounds": [
+      {
+         "title": "shape divider",
+         "url": "https://www.shapedivider.app/",
+         "description": "A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.",
+         "imageName": "bg-shapedivider.jpg"
+      },
       {
          "title": "trianglify",
          "url": "https://trianglify.io/",
@@ -101,6 +149,12 @@
          "url": "https://animatedbackgrounds.me/",
          "description": "Animated Backgrounds hosts code snippets of various animated backgrounds that can be used as a background in your website.",
          "imageName": "bg-animatedbackground.jpg"
+      },
+      {
+         "title": "beaubus",
+         "url": "https://patterns.beaubus.com/",
+         "description": "150+ free SVG patterns and CSS background images generator",
+         "imageName": "bg-beaubus.jpg"
       }
    ],
 
@@ -267,6 +321,51 @@
          "url": "https://icons8.com/illustrations",
          "description": "Explore a beautiful library of royalty-free clipart illustrations in PNG, SVG formats. Free vector, 3d, animated illustrations for commercial use.",
          "imageName": "ill-icons8.jpg"
+      }
+   ],
+
+   "icons": [
+      {
+         "title": "font awesome",
+         "url": "https://fontawesome.com/",
+         "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
+         "imageName": "icon-fontawesome.jpg"
+      },
+      {
+         "title": "flat icon",
+         "url": "https://www.flaticon.com/",
+         "description": "Download Free Icons and Stickers for your projects",
+         "imageName": "icon-flaticon.jpg"
+      },
+      {
+         "title": "icons8",
+         "url": "https://icons8.com/icons",
+         "description": "Large icon packs of over 10k icons, so you can find visually consistent icons for all your designs",
+         "imageName": "icon-icons8.jpg"
+      },
+      {
+         "title": "icon finder",
+         "url": "https://www.iconfinder.com/icons",
+         "description": "Icons are the universal visual language that helps us navigate virtual and physical spaces. Whether you are building a website, an app, or a slide deck, with 6 million icons, you will find one for practically anything here.",
+         "imageName": "icon-iconfinder.jpg"
+      },
+      {
+         "title": "boxicons",
+         "url": "https://boxicons.com/",
+         "description": "Simple Open Source icons carefully crafted for designers & developers",
+         "imageName": "icon-boxicon.jpg"
+      },
+      {
+         "title": "hero icons",
+         "url": "https://heroicons.com/",
+         "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+         "imageName": "icon-heroicon.jpg"
+      },
+      {
+         "title": "bootstrap icons",
+         "url": "https://icons.getbootstrap.com/",
+         "description": "Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.",
+         "imageName": "icon-bootstrapicon.jpg"
       }
    ]
 }
