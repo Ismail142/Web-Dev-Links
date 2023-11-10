@@ -129,11 +129,6 @@
 }
 
 
-
-
-
-
-
 @media (max-width: 600px) {
    .show-menu-container {
       grid-template-columns: minmax(100px, 350px);
