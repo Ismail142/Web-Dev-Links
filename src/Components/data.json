@@ -304,7 +304,7 @@
       "title": "cyclic",
       "url": "https://cyclic.sh/",
       "description": "Cyclic is a good alternative to Heroku if you are looking for a modern cloud architecture, serverless hosting infrastructure, easy on-boarding experience, a bursty or inconsistent workload. Or if self-hosting is required (BYO cloud account). Pay for the requests you use, auto-scale from the start.",
-      "imageName": "https://ibb.co/z7m7ZPD"
+      "imageName": "host-cyclic.png"
     }
   ],
 
