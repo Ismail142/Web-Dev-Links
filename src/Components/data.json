@@ -1,380 +1,370 @@
 {
-   "colors": [
-      {
+  "colors": [
+    {
       "title": "Coolors",
       "url": "https://coolors.co",
       "description": "The super fast color schemas generator!",
-      "imageName": "color-coolors.png" 
-      },
-      {
+      "imageName": "color-coolors.png"
+    },
+    {
       "title": "Color Designer",
       "url": "https://colordesigner.io/",
       "description": "The main purpose of this tool is to help with building a color palette and generate tints and shades based on it.",
-      "imageName": "color-colordesigner.jpg" 
-      },
-      {
-         "title": "Color Hunt",
-         "url": "https://colorhunt.co/",
-         "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
-         "imageName": "color-colorhunt.jpg" 
-      },
-      {
-         "title": "0to255",
-         "url": "https://0to255.com/",
-         "description": "0to255 is a color tool for finding lighter and darker colors based on any color.",
-         "imageName": "color-0to255.jpg" 
-      },
-      {
-         "title": "Colors Lol",
-         "url": "https://colors.lol/",
-         "description": "Overly descriptive color palettes.",
-         "imageName": "color-colorlol.jpg" 
-      },
-      {
-         "title": "Colors space",
-         "url": "https://mycolor.space/",
-         "description": "Never waste Hours on finding the perfect Color Palette again!",
-         "imageName": "color-colorspace.jpg" 
-      },
-      {
-         "title": "flat ui",
-         "url": "https://flatuicolors.com/",
-         "description": "Flat UI Colors 2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command for COPY",
-         "imageName": "color-flatui.jpg" 
-      },
-      {
-         "title": "colorsinspo",
-         "url": "https://colorsinspo.com/",
-         "description": "Colorsinspo is all in one resource to find everything about colors with extreme ease",
-         "imageName": "color-colorsinspo.jpg" 
-      },
-      {
-         "title": "colorion",
-         "url": "https://www.colorion.co/",
-         "description": "Find your color palettes at ease.",
-         "imageName": "color-colorion.jpg" 
-      }
-   ],
+      "imageName": "color-colordesigner.jpg"
+    },
+    {
+      "title": "Color Hunt",
+      "url": "https://colorhunt.co/",
+      "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+      "imageName": "color-colorhunt.jpg"
+    },
+    {
+      "title": "0to255",
+      "url": "https://0to255.com/",
+      "description": "0to255 is a color tool for finding lighter and darker colors based on any color.",
+      "imageName": "color-0to255.jpg"
+    },
+    {
+      "title": "Colors Lol",
+      "url": "https://colors.lol/",
+      "description": "Overly descriptive color palettes.",
+      "imageName": "color-colorlol.jpg"
+    },
+    {
+      "title": "Colors space",
+      "url": "https://mycolor.space/",
+      "description": "Never waste Hours on finding the perfect Color Palette again!",
+      "imageName": "color-colorspace.jpg"
+    },
+    {
+      "title": "flat ui",
+      "url": "https://flatuicolors.com/",
+      "description": "Flat UI Colors 2 features 13 more color palettes. Collaborating with 13 designers around the world, a total set of 280 colors are on your command for COPY",
+      "imageName": "color-flatui.jpg"
+    },
+    {
+      "title": "colorsinspo",
+      "url": "https://colorsinspo.com/",
+      "description": "Colorsinspo is all in one resource to find everything about colors with extreme ease",
+      "imageName": "color-colorsinspo.jpg"
+    },
+    {
+      "title": "colorion",
+      "url": "https://www.colorion.co/",
+      "description": "Find your color palettes at ease.",
+      "imageName": "color-colorion.jpg"
+    }
+  ],
 
-   "css": [
-      {
-         "title": "Bulma",
-         "url": "https://bulma.io/",
-         "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.",
-         "imageName": "css-bulma.jpg"
-      },
-      {
-         "title": "Animate.css",
-         "url": "https://animate.style/",
-         "description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
-         "imageName": "css-animate.jpg"
-      },
-      {
-         "title": "Fancy Border Radius",
-         "url": "https://9elements.github.io/fancy-border-radius/",
-         "description": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. WOW 😱.",
-         "imageName": "css-fancy-border-radius.jpg"
-      },
-      {
-         "title": "The Perfect Radius",
-         "url": "https://radius-playground.netlify.app/",
-         "description": "A visual demonstration of how to get a perfect nested radius or rounded corners",
-         "imageName": "css-perfectradius.png"
-      },
-      {
-         "title": "CSS Gradient",
-         "url": "https://cssgradient.io/",
-         "description": "CSS Gradient is a project that lets you create free gradient backgrounds for your website",
-         "imageName": "css-cssgradient.jpg"
-      },
-      {
-         "title": "CSS tricks",
-         "url": "https://css-tricks.com/",
-         "description": "CSS Tricks hosts some of the best advice, tips, tricks and code snippets on Cascading Style Sheets.",
-         "imageName": "css-csstricks.jpg"
-      },
-      {
-         "title": "glassmorphism generator",
-         "url": "https://markodenic.com/tools/glassmorphism-css-generator/",
-         "description": "Use Glassmorphism Generator to create a stunning effect for your projects.",
-         "imageName": "css-glassmorphism.jpg"
-      },
-      {
-         "title": "button generator",
-         "url": "https://markodenic.com/tools/buttons-generator/",
-         "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
-         "imageName": "css-buttongen.jpg"
-      },
-      {
-         "title": "layoutit grid",
-         "url": "https://grid.layoutit.com/",
-         "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
-         "imageName": "css-gridlayout.jpg"
-      },
-      {
-         "title": "button generator",
-         "url": "https://markodenic.com/tools/buttons-generator/",
-         "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
-         "imageName": "css-buttongen.jpg"
-      }
-   ],
+  "css": [
+    {
+      "title": "Bulma",
+      "url": "https://bulma.io/",
+      "description": "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.",
+      "imageName": "css-bulma.jpg"
+    },
+    {
+      "title": "Animate.css",
+      "url": "https://animate.style/",
+      "description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+      "imageName": "css-animate.jpg"
+    },
+    {
+      "title": "Fancy Border Radius",
+      "url": "https://9elements.github.io/fancy-border-radius/",
+      "description": "When you use eight values specifying border-radius in CSS, you can build organic looking shapes. WOW 😱.",
+      "imageName": "css-fancy-border-radius.jpg"
+    },
+    {
+      "title": "The Perfect Radius",
+      "url": "https://radius-playground.netlify.app/",
+      "description": "A visual demonstration of how to get a perfect nested radius or rounded corners",
+      "imageName": "css-perfectradius.png"
+    },
+    {
+      "title": "CSS Gradient",
+      "url": "https://cssgradient.io/",
+      "description": "CSS Gradient is a project that lets you create free gradient backgrounds for your website",
+      "imageName": "css-cssgradient.jpg"
+    },
+    {
+      "title": "CSS tricks",
+      "url": "https://css-tricks.com/",
+      "description": "CSS Tricks hosts some of the best advice, tips, tricks and code snippets on Cascading Style Sheets.",
+      "imageName": "css-csstricks.jpg"
+    },
+    {
+      "title": "glassmorphism generator",
+      "url": "https://markodenic.com/tools/glassmorphism-css-generator/",
+      "description": "Use Glassmorphism Generator to create a stunning effect for your projects.",
+      "imageName": "css-glassmorphism.jpg"
+    },
+    {
+      "title": "button generator",
+      "url": "https://markodenic.com/tools/buttons-generator/",
+      "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
+      "imageName": "css-buttongen.jpg"
+    },
+    {
+      "title": "layoutit grid",
+      "url": "https://grid.layoutit.com/",
+      "description": "Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.",
+      "imageName": "css-gridlayout.jpg"
+    },
+    {
+      "title": "button generator",
+      "url": "https://markodenic.com/tools/buttons-generator/",
+      "description": "An online gallery of 100+ button designs you can easily copy and use in your projects.",
+      "imageName": "css-buttongen.jpg"
+    }
+  ],
 
-   "backgrounds": [
-      {
-         "title": "shape divider",
-         "url": "https://www.shapedivider.app/",
-         "description": "A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.",
-         "imageName": "bg-shapedivider.jpg"
-      },
-      {
-         "title": "trianglify",
-         "url": "https://trianglify.io/",
-         "description": "Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.",
-         "imageName": "bg-trianglify.jpg"
-      },
-      {
-         "title": "Svg Backgrounds",
-         "url": "https://www.svgbackgrounds.com/",
-         "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
-         "imageName": "bg-svgbackgrounds.jpg"
-      },
-      {
-         "title": "BG Jar",
-         "url": "https://bgjar.com/",
-         "description": "Free svg background generator for your websites, blogs and app.",
-         "imageName": "bg-bgjar.jpg"
-      },
-      {
-         "title": "Haikei",
-         "url": "https://haikei.app/generators/",
-         "description": "Haikei is a web app that generate stunning visual content – ready to use with your design tools and workflow.",
-         "imageName": "bg-haikeijpg.jpg"
-      },
-      {
-         "title": "animated backgrounds",
-         "url": "https://animatedbackgrounds.me/",
-         "description": "Animated Backgrounds hosts code snippets of various animated backgrounds that can be used as a background in your website.",
-         "imageName": "bg-animatedbackground.jpg"
-      },
-      {
-         "title": "beaubus",
-         "url": "https://patterns.beaubus.com/",
-         "description": "150+ free SVG patterns and CSS background images generator",
-         "imageName": "bg-beaubus.jpg"
-      }
-   ],
+  "backgrounds": [
+    {
+      "title": "shape divider",
+      "url": "https://www.shapedivider.app/",
+      "description": "A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.",
+      "imageName": "bg-shapedivider.jpg"
+    },
+    {
+      "title": "trianglify",
+      "url": "https://trianglify.io/",
+      "description": "Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.",
+      "imageName": "bg-trianglify.jpg"
+    },
+    {
+      "title": "Svg Backgrounds",
+      "url": "https://www.svgbackgrounds.com/",
+      "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
+      "imageName": "bg-svgbackgrounds.jpg"
+    },
+    {
+      "title": "BG Jar",
+      "url": "https://bgjar.com/",
+      "description": "Free svg background generator for your websites, blogs and app.",
+      "imageName": "bg-bgjar.jpg"
+    },
+    {
+      "title": "Haikei",
+      "url": "https://haikei.app/generators/",
+      "description": "Haikei is a web app that generate stunning visual content – ready to use with your design tools and workflow.",
+      "imageName": "bg-haikeijpg.jpg"
+    },
+    {
+      "title": "animated backgrounds",
+      "url": "https://animatedbackgrounds.me/",
+      "description": "Animated Backgrounds hosts code snippets of various animated backgrounds that can be used as a background in your website.",
+      "imageName": "bg-animatedbackground.jpg"
+    },
+    {
+      "title": "beaubus",
+      "url": "https://patterns.beaubus.com/",
+      "description": "150+ free SVG patterns and CSS background images generator",
+      "imageName": "bg-beaubus.jpg"
+    }
+  ],
 
-   "images": [
-      {
-         "title": "unsplash",
-         "url": "https://unsplash.com/",
-         "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
-         "imageName": "img-unsplash.jpg"
-      },
-      {
-         "title": "bing image creator",
-         "url": "https://www.bing.com/create",
-         "description": "Bing Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
-         "imageName": "img-bingimage.jpg"
-      },
-      {
-         "title": "pixabay",
-         "url": "https://pixabay.com/",
-         "description": "Find your perfect royalty-free image or video to download and use. ✓ Royalty-free ✓ No attribution required ✓ High quality images.",
-         "imageName": "img-pixabay.jpg"
-      },
-      {
-         "title": "adobe stock",
-         "url": "https://stock.adobe.com/",
-         "description": "Search Adobe Stock for millions of royalty-free stock images, photos, graphics, vectors, video footage, illustrations, templates and 3d assets.",
-         "imageName": "img-adobestock.jpg"
-      },
-      {
-         "title": "pexels",
-         "url": "https://www.pexels.com/",
-         "description": "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.",
-         "imageName": "img-pexels.jpg"
-      },
-      {
-         "title": "libreStock",
-         "url": "https://librestock.com/",
-         "description": "We scan and index the best free photos from the top stock sites, so that you can find that perfect image much, much quicker.",
-         "imageName": "img-librestock.jpg"
-      },
-      {
-         "title": "istock",
-         "url": "https://www.istockphoto.com/",
-         "description": "iStock has millions of exclusive stock photos, videos, vectors, and illustrations that are researched and shot by a diverse global community.",
-         "imageName": "img-istock.jpg"
-      },
-      {
-         "title": "visualHunt",
-         "url": "https://visualhunt.com/",
-         "description": "Visually search the best products and ideas. Curated by experts, powered by community.",
-         "imageName": "img-visualhunt.jpg"
-      },
-      {
-         "title": "freePhotos",
-         "url": "https://freephotos.cc/en",
-         "description": "Find 100% Free Stock Images.",
-         "imageName": "img-freephotos.jpg"
-      }
-   ],
+  "images": [
+    {
+      "title": "unsplash",
+      "url": "https://unsplash.com/",
+      "description": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+      "imageName": "img-unsplash.jpg"
+    },
+    {
+      "title": "bing image creator",
+      "url": "https://www.bing.com/create",
+      "description": "Bing Image Creator helps you generate AI images with DALL-E right from the sidebar in Microsoft Edge. Given a text prompt, our AI will generate a set of images matching that prompt.",
+      "imageName": "img-bingimage.jpg"
+    },
+    {
+      "title": "pixabay",
+      "url": "https://pixabay.com/",
+      "description": "Find your perfect royalty-free image or video to download and use. ✓ Royalty-free ✓ No attribution required ✓ High quality images.",
+      "imageName": "img-pixabay.jpg"
+    },
+    {
+      "title": "adobe stock",
+      "url": "https://stock.adobe.com/",
+      "description": "Search Adobe Stock for millions of royalty-free stock images, photos, graphics, vectors, video footage, illustrations, templates and 3d assets.",
+      "imageName": "img-adobestock.jpg"
+    },
+    {
+      "title": "pexels",
+      "url": "https://www.pexels.com/",
+      "description": "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.",
+      "imageName": "img-pexels.jpg"
+    },
+    {
+      "title": "libreStock",
+      "url": "https://librestock.com/",
+      "description": "We scan and index the best free photos from the top stock sites, so that you can find that perfect image much, much quicker.",
+      "imageName": "img-librestock.jpg"
+    },
+    {
+      "title": "istock",
+      "url": "https://www.istockphoto.com/",
+      "description": "iStock has millions of exclusive stock photos, videos, vectors, and illustrations that are researched and shot by a diverse global community.",
+      "imageName": "img-istock.jpg"
+    },
+    {
+      "title": "visualHunt",
+      "url": "https://visualhunt.com/",
+      "description": "Visually search the best products and ideas. Curated by experts, powered by community.",
+      "imageName": "img-visualhunt.jpg"
+    },
+    {
+      "title": "freePhotos",
+      "url": "https://freephotos.cc/en",
+      "description": "Find 100% Free Stock Images.",
+      "imageName": "img-freephotos.jpg"
+    }
+  ],
 
-   "hosting": [
-      {
-         
-         "title": "netlify",
-         "url": "https://netlify.com/",
-         "description": "Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.",
-         "imageName": "host-netlify.jpg"
-      },
-      {
-         
-         "title": "firebase",
-         "url": "https://firebase.google.com/",
-         "description": "Firebase helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises",
-         "imageName": "host-firebase.jpg"
-      },
-      {
-         
-         "title": "github pages",
-         "url": "https://pages.github.com/",
-         "description": "GitHub Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.",
-         "imageName": "host-githubpages.jpg"
-      },
-      {
-         
-         "title": "vercel",
-         "url": "https://vercel.com/",
-         "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.",
-         "imageName": "host-vercel.jpg"
-      },
-      {
-         
-         "title": "Amazon web services",
-         "url": "https://aws.amazon.com/",
-         "description": "Amazon Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.",
-         "imageName": "host-amservice.jpg"
-      },
-      {
-         
-         "title": "surge",
-         "url": "https://surge.sh/",
-         "description": "Surge is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line",
-         "imageName": "host-surge.jpg"
-      },
-      {
-         
-         "title": "render",
-         "url": "https://render.com/",
-         "description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.",
-         "imageName": "host-render.jpg"
-      },
-      {
-         
-         "title": "gitlap pages",
-         "url": "https://docs.gitlab.com/ee/user/project/pages/",
-         "description": "GitLab Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.",
-         "imageName": "host-gitlappages.jpg"
-      },
-      {
-         
-         "title": "stormkit",
-         "url": "https://stormkit.io/",
-         "description": "Stormkit can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.",
-         "imageName": "host-stormkit.jpg"
-      },
-      {
-         
-         "title": "digital ocean",
-         "url": "https://www.digitalocean.com/",
-         "description": "DigitalOcean has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.",
-         "imageName": "host-digitalocean.jpg"
-      },
-      {
-         
-         "title": "000webhost",
-         "url": "https://www.000webhost.com/",
-         "description": "000webhostapp is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.",
-         "imageName": "host-000webhost.jpg"
-      },
-      {
-         
-         "title": "infinity free",
-         "url": "https://infinityfree.net/",
-         "description": "InfinityFree is fully featured, completely free website hosting with PHP, MySQL and no ads on site.",
-         "imageName": "host-infinityfree.jpg"
-      },
-      {
-         
-         "title": "fly",
-         "url": "https://fly.io/",
-         "description": "Fly is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.",
-         "imageName": "host-fly.jpg"
-      }
-   ],
+  "hosting": [
+    {
+      "title": "netlify",
+      "url": "https://netlify.com/",
+      "description": "Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.",
+      "imageName": "host-netlify.jpg"
+    },
+    {
+      "title": "firebase",
+      "url": "https://firebase.google.com/",
+      "description": "Firebase helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises",
+      "imageName": "host-firebase.jpg"
+    },
+    {
+      "title": "github pages",
+      "url": "https://pages.github.com/",
+      "description": "GitHub Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.",
+      "imageName": "host-githubpages.jpg"
+    },
+    {
+      "title": "vercel",
+      "url": "https://vercel.com/",
+      "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.",
+      "imageName": "host-vercel.jpg"
+    },
+    {
+      "title": "Amazon web services",
+      "url": "https://aws.amazon.com/",
+      "description": "Amazon Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.",
+      "imageName": "host-amservice.jpg"
+    },
+    {
+      "title": "surge",
+      "url": "https://surge.sh/",
+      "description": "Surge is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line",
+      "imageName": "host-surge.jpg"
+    },
+    {
+      "title": "render",
+      "url": "https://render.com/",
+      "description": "Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.",
+      "imageName": "host-render.jpg"
+    },
+    {
+      "title": "gitlap pages",
+      "url": "https://docs.gitlab.com/ee/user/project/pages/",
+      "description": "GitLab Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.",
+      "imageName": "host-gitlappages.jpg"
+    },
+    {
+      "title": "stormkit",
+      "url": "https://stormkit.io/",
+      "description": "Stormkit can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.",
+      "imageName": "host-stormkit.jpg"
+    },
+    {
+      "title": "digital ocean",
+      "url": "https://www.digitalocean.com/",
+      "description": "DigitalOcean has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.",
+      "imageName": "host-digitalocean.jpg"
+    },
+    {
+      "title": "000webhost",
+      "url": "https://www.000webhost.com/",
+      "description": "000webhostapp is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.",
+      "imageName": "host-000webhost.jpg"
+    },
+    {
+      "title": "infinity free",
+      "url": "https://infinityfree.net/",
+      "description": "InfinityFree is fully featured, completely free website hosting with PHP, MySQL and no ads on site.",
+      "imageName": "host-infinityfree.jpg"
+    },
+    {
+      "title": "fly",
+      "url": "https://fly.io/",
+      "description": "Fly is a platform for running full stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.",
+      "imageName": "host-fly.jpg"
+    },
+    {
+      "title": "cyclic",
+      "url": "https://cyclic.sh/",
+      "description": "Cyclic is a good alternative to Heroku if you are looking for a modern cloud architecture, serverless hosting infrastructure, easy on-boarding experience, a bursty or inconsistent workload. Or if self-hosting is required (BYO cloud account). Pay for the requests you use, auto-scale from the start.",
+      "imageName": "https://ibb.co/z7m7ZPD"
+    }
+  ],
 
-   "illustration": [
-      {
-         "title": "Reshot",
-         "url": "https://www.reshot.com/free-vector-illustrations/",
-         "description": "Free Vector Illustrations. Design freely with instant downloads and commercial licenses for over 1,500 vector illustrations",
-         "imageName": "ill-reshot.jpg"
-      },
-      {
-         "title": "icons8",
-         "url": "https://icons8.com/illustrations",
-         "description": "Explore a beautiful library of royalty-free clipart illustrations in PNG, SVG formats. Free vector, 3d, animated illustrations for commercial use.",
-         "imageName": "ill-icons8.jpg"
-      }
-   ],
+  "illustration": [
+    {
+      "title": "Reshot",
+      "url": "https://www.reshot.com/free-vector-illustrations/",
+      "description": "Free Vector Illustrations. Design freely with instant downloads and commercial licenses for over 1,500 vector illustrations",
+      "imageName": "ill-reshot.jpg"
+    },
+    {
+      "title": "icons8",
+      "url": "https://icons8.com/illustrations",
+      "description": "Explore a beautiful library of royalty-free clipart illustrations in PNG, SVG formats. Free vector, 3d, animated illustrations for commercial use.",
+      "imageName": "ill-icons8.jpg"
+    }
+  ],
 
-   "icons": [
-      {
-         "title": "font awesome",
-         "url": "https://fontawesome.com/",
-         "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
-         "imageName": "icon-fontawesome.jpg"
-      },
-      {
-         "title": "flat icon",
-         "url": "https://www.flaticon.com/",
-         "description": "Download Free Icons and Stickers for your projects",
-         "imageName": "icon-flaticon.jpg"
-      },
-      {
-         "title": "icons8",
-         "url": "https://icons8.com/icons",
-         "description": "Large icon packs of over 10k icons, so you can find visually consistent icons for all your designs",
-         "imageName": "icon-icons8.jpg"
-      },
-      {
-         "title": "icon finder",
-         "url": "https://www.iconfinder.com/icons",
-         "description": "Icons are the universal visual language that helps us navigate virtual and physical spaces. Whether you are building a website, an app, or a slide deck, with 6 million icons, you will find one for practically anything here.",
-         "imageName": "icon-iconfinder.jpg"
-      },
-      {
-         "title": "boxicons",
-         "url": "https://boxicons.com/",
-         "description": "Simple Open Source icons carefully crafted for designers & developers",
-         "imageName": "icon-boxicon.jpg"
-      },
-      {
-         "title": "hero icons",
-         "url": "https://heroicons.com/",
-         "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
-         "imageName": "icon-heroicon.jpg"
-      },
-      {
-         "title": "bootstrap icons",
-         "url": "https://icons.getbootstrap.com/",
-         "description": "Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.",
-         "imageName": "icon-bootstrapicon.jpg"
-      }
-   ]
+  "icons": [
+    {
+      "title": "font awesome",
+      "url": "https://fontawesome.com/",
+      "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
+      "imageName": "icon-fontawesome.jpg"
+    },
+    {
+      "title": "flat icon",
+      "url": "https://www.flaticon.com/",
+      "description": "Download Free Icons and Stickers for your projects",
+      "imageName": "icon-flaticon.jpg"
+    },
+    {
+      "title": "icons8",
+      "url": "https://icons8.com/icons",
+      "description": "Large icon packs of over 10k icons, so you can find visually consistent icons for all your designs",
+      "imageName": "icon-icons8.jpg"
+    },
+    {
+      "title": "icon finder",
+      "url": "https://www.iconfinder.com/icons",
+      "description": "Icons are the universal visual language that helps us navigate virtual and physical spaces. Whether you are building a website, an app, or a slide deck, with 6 million icons, you will find one for practically anything here.",
+      "imageName": "icon-iconfinder.jpg"
+    },
+    {
+      "title": "boxicons",
+      "url": "https://boxicons.com/",
+      "description": "Simple Open Source icons carefully crafted for designers & developers",
+      "imageName": "icon-boxicon.jpg"
+    },
+    {
+      "title": "hero icons",
+      "url": "https://heroicons.com/",
+      "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+      "imageName": "icon-heroicon.jpg"
+    },
+    {
+      "title": "bootstrap icons",
+      "url": "https://icons.getbootstrap.com/",
+      "description": "Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.",
+      "imageName": "icon-bootstrapicon.jpg"
+    }
+  ]
 }
-
-
-
